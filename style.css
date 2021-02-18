@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.big-title {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  transform: rotate(360deg);
+  transition: all 2s;
+}
+
+/* .big-title:hover {
+  transform: rotate(360deg);
+  transition: all 2s;
+} */
